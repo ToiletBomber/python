@@ -29,4 +29,6 @@ tk.Label(frame_r, text='on the frame_r1', bg='yellow').pack()
 tk.Label(frame_r, text='on the frame_r1', bg='yellow').pack()
 tk.Label(frame_r, text='on the frame_r3', bg='yellow').pack()
 
+tkinter.messagebox.showinfo(title='Hi', message='你好！')
+
 window.mainloop()
